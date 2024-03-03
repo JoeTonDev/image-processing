@@ -1,1 +1,1 @@
-Python script to resize and compress image.
+Python script to resize and compress images.
